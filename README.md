@@ -1,4 +1,5 @@
 # Sales-Analysis(using tableau)
+tableau link (https://lnkd.in/gNCHgwgW)
 "A sales dashboard created using Tableau to visualize sales trends, regional performance, and key KPIs. Focuses on data-driven decision-making with interactive visualizations."
 I'm thrilled to share my recent Tableau project, the Interactive Sales Dashboard. Designed for sales managers and executives, this tool provides a comprehensive analysis of sales performance, offering an intuitive overview of key metrics and trends.
 
